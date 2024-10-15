@@ -1,2 +1,2 @@
 #!/bin/bash
-Commandchmod u+w hello
+touch hello chmod 644 hello
