@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 hello
+chmod 644 /home/jayvanramos23/holbertonschool-shell/permissions/hello
