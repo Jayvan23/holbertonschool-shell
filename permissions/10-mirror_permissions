@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g=u hello olleh 
+chmod 764 hello olleh
