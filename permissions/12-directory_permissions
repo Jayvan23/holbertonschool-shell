@@ -1,2 +1,2 @@
 #!/bin/bash
-kdir -m 751 /home/jayvanramos23/holbertonschool-shell/permissions/my_dir
+chmod 751 /home/jayvanramos23/holbertonschool-shell/permissions/my_dir
