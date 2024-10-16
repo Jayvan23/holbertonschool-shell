@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 755 my_dir
+kdir -m 751 /home/jayvanramos23/holbertonschool-shell/permissions/my_dir
