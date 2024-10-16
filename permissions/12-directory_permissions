@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x /home/jayvanramos23/holbertonschool-shell/permissions/my_dir
+chmod +x my_dir
