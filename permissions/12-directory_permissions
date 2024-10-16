@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod mkdir 755 my_dir
+chmod mkdir 755 /home/jayvanramos23/holbertonschool-shell/permissions/my_dir
