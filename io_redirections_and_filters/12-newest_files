@@ -1,0 +1,2 @@
+#!/bin/bashi
+ls -lt | grep ^- | head -n 10
