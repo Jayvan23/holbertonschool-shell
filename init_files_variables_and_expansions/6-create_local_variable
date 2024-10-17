@@ -1,2 +1,2 @@
 #!/bin/bash
-Set a variable called "city" with the value "New York"
+Set variable "city" value "New York"
