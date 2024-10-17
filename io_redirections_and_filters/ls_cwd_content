@@ -1,0 +1,15 @@
+total 44
+drwxr-xr-x 1 jayvanramos23 jayvanramos23 276 Oct 17 09:37 .
+drwxr-xr-x 1 jayvanramos23 jayvanramos23 114 Oct 16 14:04 ..
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  32 Oct 16 14:29 0-hello_world
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  28 Oct 16 15:02 1-confused_smiley
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  27 Oct 16 15:08 2-hellofile
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  39 Oct 16 15:09 3-twofiles
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  29 Oct 16 15:11 4-lastlines
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  29 Oct 16 15:13 5-firstlines
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  40 Oct 16 15:17 6-third_line
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  89 Oct 17 09:21 7-file
+-rwxr--r-- 1 jayvanramos23 jayvanramos23  36 Oct 17 09:37 8-cwd_state
+-rw-r--r-- 1 jayvanramos23 jayvanramos23   6 Oct 17 09:10 filename.txt
+-rw-r--r-- 1 jayvanramos23 jayvanramos23   0 Oct 17 09:37 ls_cwd_content
+-rw-r--r-- 1 jayvanramos23 jayvanramos23  59 Oct 16 14:08 README.md
