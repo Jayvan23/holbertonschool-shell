@@ -1,2 +1,2 @@
 #!/bin/bashi
-ls -1t | head -n 10
+ls -t | head -n 10
