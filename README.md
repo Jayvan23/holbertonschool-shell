@@ -1,1 +1,1 @@
-# holbertonschool-shell
+Learning to code on git
